@@ -1,0 +1,9 @@
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\bin\Debug\negocio.dll
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\bin\Debug\negocio.pdb
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\bin\Debug\dominio.dll
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\bin\Debug\dominio.pdb
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\obj\Debug\negocio.dll
+C:\Users\ar031695\Documents\CURSO C#\C# 2 - MP\Version Maxi Final\ejemplos-ado-net-main\ejemplos-ado-net-main\negocio\obj\Debug\negocio.pdb
